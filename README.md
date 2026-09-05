@@ -1,6 +1,5 @@
 # 🖼️ Car, Cat & Dog Image Classification using CNN
 ## Live Demo: https://shadowfoximageclassification-dmu632gab5wbu6c8pnavxx.streamlit.app/
-# 🖼️ Car, Cat & Dog Image Classification using CNN
 
 ## 📌 Project Overview
 
@@ -149,6 +148,11 @@ This demonstrates that the model can learn visual patterns from the selected CIF
 > **Note:** CIFAR-10 images are low-resolution 32 × 32 images. Performance on normal high-resolution real-world photographs may differ because the model was trained on CIFAR-10 images.
 
 ---
+
+📸 Application Screenshots
+<img width="561" height="282" alt="Screenshot 2026-09-05 094021" src="https://github.com/user-attachments/assets/7be40b86-d226-4cb4-8ff4-d856a9a26e5b" />
+<img width="502" height="702" alt="Screenshot 2026-09-05 094008" src="https://github.com/user-attachments/assets/2a4ca37f-bf8c-4445-8dac-2ec21e7d5824" />
+
 
 ## 🌐 Streamlit Application
 
