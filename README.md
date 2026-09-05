@@ -150,7 +150,9 @@ This demonstrates that the model can learn visual patterns from the selected CIF
 ---
 
 📸 Application Screenshots
+
 <img width="561" height="282" alt="Screenshot 2026-09-05 094021" src="https://github.com/user-attachments/assets/7be40b86-d226-4cb4-8ff4-d856a9a26e5b" />
+
 <img width="502" height="702" alt="Screenshot 2026-09-05 094008" src="https://github.com/user-attachments/assets/2a4ca37f-bf8c-4445-8dac-2ec21e7d5824" />
 
 
