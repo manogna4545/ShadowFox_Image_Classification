@@ -1,5 +1,4 @@
 # 🖼️ Car, Cat & Dog Image Classification using CNN
-## Live Demo: https://shadowfoximageclassification-dmu632gab5wbu6c8pnavxx.streamlit.app/
 
 ## 📌 Project Overview
 
