@@ -325,24 +325,6 @@ Dog
 ```
 
 The class with the highest probability is displayed as the final prediction.
-
----
-
-## 🚀 Future Improvements
-
-The project can be improved further by:
-
-* Using higher-resolution real-world images.
-* Increasing the size and diversity of the dataset.
-* Applying data augmentation.
-* Using transfer learning models such as MobileNetV2 or EfficientNet.
-* Improving classification accuracy.
-* Adding prediction probability charts.
-* Supporting additional image categories.
-* Improving the user interface.
-* Adding model performance visualizations.
-* Adding more robust real-world image testing.
-
 ---
 
 ## 🎓 Internship Task
